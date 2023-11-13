@@ -1,0 +1,131 @@
+I'll inv you, please wait in kyovashad or any othter town that is not Nevesk, after inv just accept , teleport with my portal and run to mist door, do not enter
+
+title adds one step -> after I'm close to the mist doors please immediately enter and deal some damage after Lili appears in the middle (she will be downwards from your position)
+
+your freshly skinned mount is awaiting at stables!
+
+
+
+
+-------------------
+
+
+https://discord.com/invite/diablo4
+
+and user-friendly instruction where to look: https://i.imgur.com/oQYKqnY.png
+
+Select channel and roles (top left) then do the customization options -> important to select Hardcore: Season 1 or Hardcode: Non-seasonal
+
+class and platform are optional but i'd do them anyway.
+
+then go into Browse Channels (up there) and do stuff like that:
+
+Deselect all we don't need (first untick follow category): https://i.imgur.com/RFEElsO.png
+
+and keep these 2 selected: https://i.imgur.com/IN2H7Xj.png -- ofc this is an example for hardcore. Your choices might vary.
+
+it'll make your whole channel menu less cluttered and easy to use: https://i.imgur.com/8LZE3px.png
+
+
+
+-------------------
+
+
+My not-really a guide how to dodge waves (starts 0:33 after I glitch her)
+https://www.youtube.com/watch?v=R6CiqHHLKHQ
+
+
+
+-------------------
+
+lilith carry
+
+Only group achivement (can discuss title on /w)
+
+Tips are welcome and appreciated. 
+Elixirs of Resourcefulness/Precision/Lucky Hit/really any elixirs are cool!
+
+Seasonal only
+
+-------------------🤯
+
+
+https://i.imgur.com/W7IJ0dV.gif
+
+huggarn#2515
+
+Season
+
+example vod: https://youtu.be/K5ceO5y_yos
+
+You have 2 choices here:
+
+1. Standard carry -> Wait in Kyo for inv, accept, tp in and enjoy
+
+2. Full fight with me :) -> Barber off, stick to me and dodge waves
+
+-------------------🤯 Boney Spears
+
+
+https://maxroll.gg/d4/planner/xffai0dx
+
+stats on items listed in order of importance. crit and essence on rings and gloves are non-negotiable, there's nothing more important. 40% crit is minimum you aim for, without it, build really cannot morph into its proper form.
+
+keep essence full at all times, it's better to shoot single spear/tendrills/ 2x basic (you can play Splinters as basic too) and spear to kill mobs. Full essence = full damage. Low essence = zero damage. CE + tendrils (after you reach flesh eater in paragon it becomes very important to set up flesh-eater stacks before bosses for example) gives you extremely big damage boost, that allows you to slap mobs with fewer spears = more essence.
+
+Iron maiden provides excellent sustain since it gives essence (many times marginal, but it's a good practice to shoot spear / maiden / tendrils combo into spear so you keep full essence pack to pack, just don't use maiden first when you are full already)
+
+if mobs seem to overwhelm you, just move back. You can always fall back a bit, use choke points, doors etc, pop tendrils on old corpse to cc mobs and kill them easy.
+
+essence cost reduction is #1 along essence on rings, in general more essence = more damage.
+
+gloves can be replaced with Frostburn unique => easy to get, 3/4 stats (they got all the juice you want except for ranks to BS) and freeze on hit <<<-- I'm still using them at 97 this season since I haven't found anything better. But if you use Frostburns, then you move Ossified aspect to a ring instead of Elements
+
+so you start with my Leveling variant, it's set up so you can see aspects and where they technically should be, but you can shuffle them around with exception of Splintering which just has to be on weapon and Veins on amulet -> if you happen to loot weapon with Veins on it, then great. But this way you're more reliant on Veins to do damage, but no matter, you're leveling still.
+
+Ring aspects can be really random, in the end you want Exposed Flesh but its rarest stuff in game :) and don't imprint it on first better ring please. If you happen to find Torment that's your 2nd ring.
+
+So you use talents as they are now, later on you will want to take some points from defenses and throw them into Blood mist -> it'll allow you to set up boss kills with corpse generation, it's also your get-out-of jail card. But in season of Blood you have unstoppable through Metamorphosis, and with +evade on boots you don't really need Mist anyway. I used it for few levels around 60-75 to set boss kills, but later it became unnecesary really as I've found Tibault pants, which enable next level of gameplay for Bone.
+
+Think I've covered most basics. Any questions welcome.
+
+
+Bonus: I just had to make this for another thread, but it illustrates perfectly few things.
+
+    Shotgun -> wall is your friend. Splinters make half of your damage, so you either max range mobs, or position them between you and a wall so single mob gets hit by everything instantly
+
+    How to deal with supressors
+
+    Take your time, be smart and use tactics. Fall back a bit, let them come towards you.
+	
+	
+	
+	
+-------------------🤯 Lilith
+
+If you just want trophy, I can help you out. add huggarn#2515
+For reference and what you should be doing : https://www.youtube.com/watch?v=bAEoKJakxBk
+Keep your essence as full as possible. Unless you have really overwhelming damage this will be an issue, and also why you're failing. Low essence = 0 damage.
+phase 1:
+prebuff 3 corpses from mist, make another mist and explode 1 corpse, you're at 4 stacks of flesh-eater.   
+Run towards spot I click on, she's gonna knock you back into perfect distance. Angle doesn't matter, she kicked me to the side because I was facing weird direction, no matter. Now, you  tendrils + corpse from behind you. Shoot some spears, 4-5 depending on your attack speed. Turn around towards blister with your splinters<<<--- this is important, she's gonna then jump behind you, and that's where we want her. Dash towards middle and blast her, keep in mind your essence still. That way you kill blister and do damage to her. Then when she jumps, go back to the spot, pop tendrils and finish her health pool. Kill Opressors and she should die from 1-2 spears now finishing p1. 
+phase 2:
+mist if you can, pop 4 coprses. Now pay attention to how and when she grows her body.
+First she does left side, that's when you prepare yourself, when left wing is finished, you react to right wing starting grow, pop bonestorm (if you use) tendrils and coprse and immediately start blasting -> you'll start damaging very moment she  enables hitbox. If you time everything properly (tendriles kinda importantes here) you will have enough damage to atleast get her to 75% life (12,5 mil damage in 5 seconds). Voila you just earned phase skip. 
+Move upwards, you can pop another tendrils if she still has health and finish her off. Move right down direction to safe spot, then left side of arena, then to the middle, mist, pop tendrils and finish her off
+
+
+-------------------🤯
+
+[CENTER][COLOR=fuchsia]47 avaliable[/COLOR]
+
+[COLOR=red]Quick runs[/COLOR]
+[COLOR=gray]bone spear carry[/COLOR]
+[IMG]https://i.imgur.com/BPAGu3o.png[/IMG]
+
+[COLOR=cyan]No need to do anything[/COLOR]
+[COLOR=yellow]Sell every 4 or so.[/COLOR]
+
+[COLOR=lime][SIZE=10]3 slots open[/SIZE][/COLOR]
+
+[/CENTER]

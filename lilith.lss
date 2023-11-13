@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Run version="1.7.0">
+  <GameIcon />
+  <GameName>Diablo IV</GameName>
+  <CategoryName>Any%</CategoryName>
+  <LayoutPath>C:\Users\huggarn\Documents\lilith.lsl</LayoutPath>
+  <Metadata>
+    <Run id="" />
+    <Platform usesEmulator="False">
+    </Platform>
+    <Region>
+    </Region>
+    <Variables />
+  </Metadata>
+  <Offset>00:00:00</Offset>
+  <AttemptCount>16</AttemptCount>
+  <AttemptHistory>
+    <Attempt id="1" started="09/27/2023 18:09:55" isStartedSynced="True" ended="09/27/2023 18:10:14" isEndedSynced="True">
+      <RealTime>00:00:19.0420060</RealTime>
+    </Attempt>
+    <Attempt id="2" started="09/27/2023 18:11:43" isStartedSynced="True" ended="09/27/2023 18:12:20" isEndedSynced="True">
+      <RealTime>00:00:36.5252816</RealTime>
+    </Attempt>
+    <Attempt id="3" started="09/27/2023 18:12:35" isStartedSynced="True" ended="09/27/2023 18:13:09" isEndedSynced="True">
+      <RealTime>00:00:34.5299753</RealTime>
+    </Attempt>
+    <Attempt id="4" started="09/27/2023 18:14:25" isStartedSynced="True" ended="09/27/2023 18:14:54" isEndedSynced="True">
+      <RealTime>00:00:29.4956612</RealTime>
+    </Attempt>
+    <Attempt id="5" started="09/27/2023 18:14:58" isStartedSynced="True" ended="09/27/2023 18:14:58" isEndedSynced="True">
+      <RealTime>00:00:00.7442097</RealTime>
+    </Attempt>
+    <Attempt id="6" started="09/27/2023 18:15:41" isStartedSynced="True" ended="09/27/2023 18:16:09" isEndedSynced="True">
+      <RealTime>00:00:28.6112346</RealTime>
+    </Attempt>
+    <Attempt id="7" started="09/27/2023 18:17:16" isStartedSynced="True" ended="09/27/2023 18:18:01" isEndedSynced="True">
+      <RealTime>00:00:45.3469000</RealTime>
+    </Attempt>
+    <Attempt id="8" started="09/27/2023 18:20:19" isStartedSynced="True" ended="09/27/2023 18:20:20" isEndedSynced="True">
+      <RealTime>00:00:00.9619923</RealTime>
+    </Attempt>
+    <Attempt id="9" started="09/27/2023 18:25:33" isStartedSynced="True" ended="09/27/2023 18:26:45" isEndedSynced="True">
+      <RealTime>00:01:11.8628697</RealTime>
+    </Attempt>
+    <Attempt id="10" started="09/27/2023 18:27:46" isStartedSynced="True" ended="09/27/2023 18:28:12" isEndedSynced="True" />
+    <Attempt id="11" started="09/27/2023 18:28:47" isStartedSynced="True" ended="09/27/2023 18:29:36" isEndedSynced="True">
+      <RealTime>00:00:48.9983307</RealTime>
+    </Attempt>
+    <Attempt id="12" started="09/27/2023 18:29:37" isStartedSynced="True" ended="09/27/2023 18:29:49" isEndedSynced="True">
+      <RealTime>00:00:11.9888146</RealTime>
+    </Attempt>
+    <Attempt id="13" started="09/27/2023 18:30:38" isStartedSynced="True" ended="09/27/2023 18:32:36" isEndedSynced="True">
+      <RealTime>00:01:57.2577192</RealTime>
+    </Attempt>
+    <Attempt id="14" started="09/27/2023 18:35:31" isStartedSynced="True" ended="09/27/2023 18:37:05" isEndedSynced="True">
+      <RealTime>00:01:34.5445539</RealTime>
+    </Attempt>
+  </AttemptHistory>
+  <Segments>
+    <Segment>
+      <Name>P1</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:00:22.9831435</RealTime>
+        </SplitTime>
+        <SplitTime name="P2" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:00.3995271</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="14">
+          <RealTime>00:00:22.9831435</RealTime>
+        </Time>
+        <Time id="12">
+          <RealTime>00:00:00.3995271</RealTime>
+        </Time>
+        <Time id="13">
+          <RealTime>00:00:45.5150924</RealTime>
+        </Time>
+        <Time id="11">
+          <RealTime>00:00:45.3632296</RealTime>
+        </Time>
+        <Time id="10">
+          <RealTime>00:00:25.4858843</RealTime>
+        </Time>
+        <Time id="9">
+          <RealTime>00:00:27.3440943</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>between phases</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:00:40.3400008</RealTime>
+        </SplitTime>
+        <SplitTime name="P2" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:00.5010699</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="14">
+          <RealTime>00:00:17.3568573</RealTime>
+        </Time>
+        <Time id="12">
+          <RealTime>00:00:00.5010699</RealTime>
+        </Time>
+        <Time id="13">
+          <RealTime>00:00:20.9480248</RealTime>
+        </Time>
+        <Time id="0" />
+        <Time id="11">
+          <RealTime>00:00:01.3118220</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>P2</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:01:34.5445539</RealTime>
+        </SplitTime>
+        <SplitTime name="P2" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:02.3232791</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="14">
+          <RealTime>00:00:54.2045531</RealTime>
+        </Time>
+        <Time id="12">
+          <RealTime>00:00:11.0882176</RealTime>
+        </Time>
+        <Time id="13">
+          <RealTime>00:00:50.7946020</RealTime>
+        </Time>
+        <Time id="11">
+          <RealTime>00:00:02.3232791</RealTime>
+        </Time>
+        <Time id="0">
+          <RealTime>00:00:44.5187754</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+  </Segments>
+  <AutoSplitterSettings />
+</Run>
