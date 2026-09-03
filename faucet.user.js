@@ -1,6 +1,6 @@
 / ==UserScript==
-// @name         X-Pick Auto ROLL
-// @version      1.2
+// @name         faucet
+// @version      1
 // @description  Automatically switches captcha type to Turnstile and clicks "ROLL" when solved, for *pick faucets
 // @author       Coraxdevil
 // @match        *://litepick.io/faucet.php
