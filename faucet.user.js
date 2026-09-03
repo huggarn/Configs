@@ -1,12 +1,20 @@
-==UserScript==
-// @name         Universal Faucet - Add Slots Link
-// @namespace    http://tampermonkey.net
+/ ==UserScript==
+// @name         X-Pick Auto ROLL
 // @version      1.2
-// @description  Adds a dynamic link to Egyptian Slots on any faucet page.
-// @author       You
-// @match        *://*/faucet.php*
+// @description  Automatically switches captcha type to Turnstile and clicks "ROLL" when solved, for *pick faucets
+// @author       Coraxdevil
+// @match        *://litepick.io/faucet.php
+// @match        *://tronpick.io/faucet.php
+// @match        *://dogepick.io/faucet.php
+// @match        *://solpick.io/faucet.php
+// @match        *://bnbpick.io/faucet.php
+// @match        *://bchpick.io/faucet.php
+// @match        *://tonpick.game/faucet.php
+// @match        *://suipick.io/faucet.php
+// @match        *://polpick.io/faucet.php
+// @license      MIT
 // @grant        none
-// ==/UserScript==
+// 
 
 (function() {
     'use strict';
