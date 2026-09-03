@@ -1,6 +1,6 @@
-/ ==UserScript==
-// @name         faucet
-// @version      1
+// ==UserScript==
+// @name         X-Pick Auto ROLL
+// @version      1.2
 // @description  Automatically switches captcha type to Turnstile and clicks "ROLL" when solved, for *pick faucets
 // @author       Coraxdevil
 // @match        *://litepick.io/faucet.php
@@ -14,7 +14,10 @@
 // @match        *://polpick.io/faucet.php
 // @license      MIT
 // @grant        none
-// 
+// @namespace https://greasyfork.org/users/1630541
+// @downloadURL https://update.greasyfork.org/scripts/590295/X-Pick%20Auto%20ROLL.user.js
+// @updateURL https://update.greasyfork.org/scripts/590295/X-Pick%20Auto%20ROLL.meta.js
+// ==/UserScript==
 
 (function() {
     'use strict';
